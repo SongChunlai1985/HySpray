@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1Form.ui.qml</file>
+        <file>Page2Form.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Page3Form.ui.qml</file>
+        <file>Page4Form.ui.qml</file>
+        <file>img/gb.png</file>
+        <file>img/gbp.png</file>
+        <file>Page5Form.ui.qml</file>
+        <file>ListV.qml</file>
+        <file>img/fy3.png</file>
+        <file>img/add.png</file>
+        <file>ListSpray.qml</file>
+        <file>Page0Form.ui.qml</file>
+        <file>TableV.qml</file>
+        <file>TableSpray.qml</file>
+        <file>ScanQRCodeView.qml</file>
+        <file>img/a.png</file>
+        <file>img/b.png</file>
+        <file>img/c.png</file>
+        <file>TimeSelect.qml</file>
+        <file>Page6Form.ui.qml</file>
+        <file>img/p1dl.png</file>
+        <file>img/p1zc.png</file>
+        <file>img/page0.png</file>
+        <file>img/footbar.png</file>
+        <file>img/footbar_selected.png</file>
+        <file>img/hdb.png</file>
+        <file>img/p1box.png</file>
+        <file>img/p2button.png</file>
+        <file>img/p2title.png</file>
+        <file>img/smlogo2.png</file>
+        <file>img/w.png</file>
+        <file>register.qml</file>
+        <file>ImgSpray.qml</file>
+        <file>MinsSelect.qml</file>
+        <file>sound/di.mp3</file>
+    </qresource>
+</RCC>

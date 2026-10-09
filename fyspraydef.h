@@ -1,0 +1,6 @@
+#ifndef FYSPRAYDEF_H
+#define FYSPRAYDEF_H
+
+#define FYSPRAY_MAX_SPRIKLER_COUNT  (16)
+
+#endif // FYSPRAYDEF_H
